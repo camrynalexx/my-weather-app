@@ -43,3 +43,7 @@ form {
   border: 1px solid;
   border-radius: 10px;
 }
+
+footer {
+  text-align: center;
+}
