@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin: 20px;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  font-size: 50px;
+  text-align: center;
+
+}
+
+form {
+  text-align: center;
+  margin: 10px;
+}
+
+.col-2 {
+  display: inline;
+  padding: 10px;
+}
+
+.container {
+  border: 1px solid #FF9AC7;
+  background-color: #FF9AC7;
+  color: #FFDFF7;
+  border-radius: 10px;
+  box-shadow: 9px 9px 5px #FF68AB;
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 600px;
+}
+
+.row {
+  border: 1px solid;
+  border-radius: 10px;
+}
