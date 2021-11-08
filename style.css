@@ -15,7 +15,6 @@ h3 {
 p {
   font-size: 50px;
   text-align: center;
-
 }
 
 form {
@@ -29,11 +28,11 @@ form {
 }
 
 .container {
-  border: 1px solid #FF9AC7;
-  background-color: #FF9AC7;
-  color: #FFDFF7;
+  border: 1px solid #ff9ac7;
+  background-color: #ff9ac7;
+  color: #ffdff7;
   border-radius: 10px;
-  box-shadow: 9px 9px 5px #FF68AB;
+  box-shadow: 9px 9px 5px #ff68ab;
   margin: 20px auto;
   padding: 15px;
   max-width: 600px;
